@@ -1,5 +1,5 @@
 # Image-Colorization-usng-CNN
 
 download Model files
-1. colorization_release_v2.caffemodel :- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUM2dkZnNUJwWUNTd1JrdElFZkJkWjN1Q2VJUXxBQ3Jtc0tuMmFTenNydkk4TzlYZUFtLWd4LVFfVXotQmQ5SjJpX0RHTGZJU3BTWFJ6Q1JGRlVzRHlEVDVmUzA1RTB3SFpWeVFIU3VOWFVadlJrZkJfcVV2YlhCd21zcVNfN1lMUlRvTkdDWU9KTEsyc1R3elJMTQ&q=https%3A%2F%2Fwww.dropbox.com%2Fs%2Fdx0qvhhp5hbcx7z%2Fcolorization_release_v2.caffemodel%3Fdl%3D1&v=gAmskBNz_Vc
-2. pts_in_hull.npy :- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbENKamJqcWg2dy1pR3BVcmVEa0pGbkVlLVF0Z3xBQ3Jtc0trQzNBYkdwSWw2UHNrWFA4MnNVYWprNjFsaTBVQjZjbHMxcUlkUkluWlExQmVGU3Jqd1Bfb0FhbXZxRXJMSE5KLUdOcl9QOVRPMUdwT0VJWW9VRW53bDQzN3JaajVyVkxYeWVQUm5yZV9zdGp4OHFTYw&q=https%3A%2F%2Fgithub.com%2Frichzhang%2Fcolorization%2Fblob%2Fcaffe%2Fcolorization%2Fresources%2Fpts_in_hull.npy&v=gAmskBNz_Vc
+1. colorization_release_v2.caffemodel 
+2. pts_in_hull.npy 
